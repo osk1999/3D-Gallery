@@ -1,0 +1,742 @@
+# Blender 4.2.3 LTS MTL File: 'dust_2.blend'
+# www.blender.org
+
+newmtl Material.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/STEFAN/Editing/funkywarzone/blender_anims_and_such/rsc/textures/discoball_lowres.jpg
+
+newmtl arctic_ARTIC_Working1.BMP
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl arctic_ARTIC_Working1.BMP.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gign_Backpack2.BMP
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gign_Backpack2.BMP.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gign_Backpack2.BMP.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gign_Backpack2.BMP.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gign_GIGN_DMBASE2.bmp
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gign_GIGN_DMBASE2.bmp.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gign_GIGN_DMBASE2.bmp.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gign_GIGN_DMBASE2.bmp.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl grafitti_1_lowres
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd E:/STEFAN/Editing/funkywarzone/blender_anims_and_such/rsc/grafitti/grafitti_1_lowres.png
+map_d E:/STEFAN/Editing/funkywarzone/blender_anims_and_such/rsc/grafitti/grafitti_1_lowres.png
+
+newmtl grafitti_2_lowres
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd E:/STEFAN/Editing/funkywarzone/blender_anims_and_such/rsc/grafitti/grafitti_2_lowres.png
+map_d E:/STEFAN/Editing/funkywarzone/blender_anims_and_such/rsc/grafitti/grafitti_2_lowres.png
+
+newmtl grafitti_3_lowres
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd E:/STEFAN/Editing/funkywarzone/blender_anims_and_such/rsc/grafitti/grafitti_3_lowres.png
+map_d E:/STEFAN/Editing/funkywarzone/blender_anims_and_such/rsc/grafitti/grafitti_3_lowres.png
+
+newmtl grafitti_girly_lowres
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd E:/STEFAN/Editing/funkywarzone/blender_anims_and_such/rsc/grafitti/grafitti_girly_lowres.png
+map_d E:/STEFAN/Editing/funkywarzone/blender_anims_and_such/rsc/grafitti/grafitti_girly_lowres.png
+
+newmtl grafitti_hands_lowres
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd E:/STEFAN/Editing/funkywarzone/blender_anims_and_such/rsc/grafitti/grafitti_hands_lowres.png
+map_d E:/STEFAN/Editing/funkywarzone/blender_anims_and_such/rsc/grafitti/grafitti_hands_lowres.png
+
+newmtl grafitti_metalletter_lowres
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd E:/STEFAN/Editing/funkywarzone/blender_anims_and_such/rsc/grafitti/grafitti_metalletter_lowres.png
+map_d E:/STEFAN/Editing/funkywarzone/blender_anims_and_such/rsc/grafitti/grafitti_metalletter_lowres.png
+
+newmtl grafitti_tiger_lowres
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd E:/STEFAN/Editing/funkywarzone/blender_anims_and_such/rsc/grafitti/grafitti_tiger_lowres.png
+map_d E:/STEFAN/Editing/funkywarzone/blender_anims_and_such/rsc/grafitti/grafitti_tiger_lowres.png
+
+newmtl gsg9_Backpack2.BMP.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gsg9_Chrome1.BMP.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gsg9_GSG9_Working1.BMP.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl guerilla_GUERILLA_DMBASE.BMP
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl leet_Arab_dmbase1.bmp
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl leet_Arab_dmbase1.bmp.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl leet_Arab_dmbase1.bmp.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl leet_Arab_dmbase1.bmp.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl leet_Arab_dmbase1.bmp.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl leet_Chrome3.bmp
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl leet_Chrome3.bmp.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl leet_Chrome3.bmp.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl leet_Chrome3.bmp.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl leet_Chrome3.bmp.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl material_0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_0.tga
+
+newmtl material_1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_1.tga
+
+newmtl material_10
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_10.tga
+
+newmtl material_11
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_11.tga
+
+newmtl material_12
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_12.tga
+
+newmtl material_13
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_13.tga
+
+newmtl material_14
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_14.tga
+
+newmtl material_15
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_15.tga
+
+newmtl material_16
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_16.tga
+
+newmtl material_17
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_17.tga
+
+newmtl material_18
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_18.tga
+
+newmtl material_19
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_19.tga
+
+newmtl material_2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_2.tga
+
+newmtl material_20
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_20.tga
+
+newmtl material_21
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_21.tga
+
+newmtl material_22
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_22.tga
+
+newmtl material_23
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_23.tga
+
+newmtl material_24
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_24.tga
+
+newmtl material_25
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_25.tga
+
+newmtl material_26
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_26.tga
+
+newmtl material_27
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_27.tga
+
+newmtl material_28
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_28.tga
+
+newmtl material_29
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_29.tga
+
+newmtl material_3
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_3.tga
+
+newmtl material_30
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_30.tga
+
+newmtl material_31
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_31.tga
+
+newmtl material_32
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_32.tga
+
+newmtl material_33
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_33.tga
+
+newmtl material_4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_4.tga
+
+newmtl material_5
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_5.tga
+
+newmtl material_6
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_6.tga
+
+newmtl material_7
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_7.tga
+
+newmtl material_8
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_8.tga
+
+newmtl material_9
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/STEFAN/Editing/funkywarzone/models/maps/de_dust2-cs-map/source/de_dust2/de_dust2_material_9.tga
+
+newmtl sas_Backpack2.BMP
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl sas_Chrome1.BMP
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl sas_SAS_DMBASE1.BMP
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl skate_bottom
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl skate_top
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl skate_wheel
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl urban_Backpack2.BMP
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl urban_SEAL_Working1.BMP
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1

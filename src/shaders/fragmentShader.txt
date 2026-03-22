@@ -1,0 +1,54 @@
+#version 400 core
+
+uniform int lightNum;
+
+in vec2 pass_tCoords; 
+
+in vec3 normVector;
+in vec3 toLightVectors[14];
+in vec3 toCameraVector;
+in vec3 vertPos;
+
+uniform sampler2D textureSampler;
+uniform vec3 lightColors[14];
+uniform float reflectivity;
+uniform float shineDamp;
+
+uniform vec3 lightPosition[14];
+
+out vec4 out_Color;
+
+void main(void)
+{
+	vec3 finDiffuse = vec3(0.0);
+	vec3 finSpec = vec3(0.0);
+	
+	vec3 toCameraVec_norm = normalize(toCameraVector);
+	vec3 normVector_norm = normalize(normVector);
+	
+	float attenuation = 0;
+	float constAtt = 1.0;
+	float linearAtt = 0.09;
+	float quadraticAtt = 0.032;
+	
+	for(int i = 0; i < lightNum; i++){		
+		float dist = length(lightPosition[i] - vertPos);
+		attenuation = 1.0 / (constAtt + linearAtt * dist + quadraticAtt * dist * dist);
+		
+		vec3 toLightVector_norm[12];
+		for(int j = 0; j < lightNum; j++){
+			toLightVector_norm[j] = normalize(toLightVectors[j]);
+		}
+		
+		float fDiffVal = max(dot(normVector_norm, toLightVector_norm[i]), 0.1);
+		finDiffuse += fDiffVal * lightColors[i] * attenuation;
+		
+		vec3 currLightDir = -toLightVector_norm[i];
+		vec3 currReflectedLightDir = reflect(-toLightVector_norm[i], normVector_norm);
+		float fSpecVal = pow(max(dot(currReflectedLightDir, toCameraVec_norm), 0.1), shineDamp);
+		finSpec += lightColors[i] * fSpecVal * reflectivity * attenuation;
+	}
+	
+	out_Color = vec4(finDiffuse, 1.0) * texture(textureSampler, pass_tCoords) + vec4(finSpec, 1.0);
+    //out_Color = texture(textureSampler, pass_tCoords);
+}

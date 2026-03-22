@@ -1,0 +1,37 @@
+package tools;
+
+import org.lwjgl.util.vector.Matrix4f;
+import org.lwjgl.util.vector.Vector3f;
+
+import entities.Camera;
+
+public class MathHelp {
+	
+	public static Matrix4f createTransformMatrix(Vector3f translate, float rx, float ry, float rz, float s) {
+		Matrix4f tMatrix = new Matrix4f();
+		tMatrix.setIdentity();
+		
+		Matrix4f.translate(translate, tMatrix, tMatrix);
+		
+		Matrix4f.rotate((float) Math.toRadians(rx), new Vector3f(1, 0, 0), tMatrix, tMatrix);
+		Matrix4f.rotate((float) Math.toRadians(ry), new Vector3f(0, 1, 0), tMatrix, tMatrix);
+		Matrix4f.rotate((float) Math.toRadians(rz), new Vector3f(0, 0, 1), tMatrix, tMatrix);
+		
+		Matrix4f.scale(new Vector3f(s, s, s), tMatrix, tMatrix);
+		
+		return tMatrix;
+	}
+	
+	public static Matrix4f createViewMatrix(Camera camera) {
+		Matrix4f viewMatrix = new Matrix4f();
+		viewMatrix.setIdentity();
+		Matrix4f.rotate((float) Math.toRadians(camera.getPitch()), new Vector3f(1, 0, 0), viewMatrix,
+				viewMatrix);
+		Matrix4f.rotate((float) Math.toRadians(camera.getYaw()), new Vector3f(0, 1, 0), viewMatrix, viewMatrix);
+		Vector3f cameraPos = camera.getPosition();
+		Vector3f negativeCameraPos = new Vector3f(-cameraPos.x,-cameraPos.y,-cameraPos.z);
+		Matrix4f.translate(negativeCameraPos, viewMatrix, viewMatrix);
+		return viewMatrix;
+	}
+
+}
