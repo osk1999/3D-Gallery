@@ -7,5 +7,5 @@ The rendering engine supports:
 - Multiple light sources.
 
 ### JAR File:
-Jar folder contains .jar file that can be used to run the application more conveniently without building the whole app independently. However, in order for it to work properly, dependencies such all the .dll files and the /res and /src folder need to all be located in the same directory as the .jar file for it to work properly. 
+Jar folder contains a .jar file that can be used to run the application more conveniently without building the whole app independently. However, in order for it to work properly, dependencies such all the .dll files and the /res and /src folder need to all be located in the same directory as the .jar file for it to work properly. 
 A direct convenient download can also be found on: https://projectosk.neocities.org/program/program
